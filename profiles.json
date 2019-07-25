@@ -279,9 +279,6 @@
         {
             "acrylicOpacity" : 0.85000002384185791,
             "background" : "#040B2E",
-            "backgroundImage" : "C:/users/baban/orca.png",
-            "backgroundImageOpacity" : 0.69999998807907104,
-            "backgroundImageStretchMode" : "uniformToFill",
             "closeOnExit" : true,
             "colorScheme" : "Campbell",
             "commandline" : "bash.exe ~ -c zsh",
