@@ -277,8 +277,11 @@
             "useAcrylic" : true
         },
         {
-            "acrylicOpacity" : 0.85000002384185791,
+            "acrylicOpacity" : 0.80000001192092896,
             "background" : "#040B2E",
+            "backgroundImage" : "ms-appdata:///roaming/bg-zsh.jpg",
+            "backgroundImageOpacity" : 1.0,
+            "backgroundImageStretchMode" : "uniformToFill",
             "closeOnExit" : true,
             "colorScheme" : "Campbell",
             "commandline" : "bash.exe ~ -c zsh",
@@ -291,8 +294,8 @@
             "icon" : "ms-appdata:///roaming/zsh.png",
             "name" : "zsh",
             "padding" : "3, 3, 0, 0",
-            "snapOnInput" : true,
-            "useAcrylic" : true
+            "snapOnInput" : false,
+            "useAcrylic" : false
         }
     ],
     "schemes" : 
