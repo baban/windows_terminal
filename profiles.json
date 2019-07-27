@@ -198,8 +198,8 @@
             }
         ],
         "requestedTheme" : "system",
-        "showTabsInTitlebar" : true,
-        "showTerminalTitleInTitlebar" : true
+        "showTabsInTitlebar" : false,
+        "showTerminalTitleInTitlebar" : false
     },
     "profiles" : 
     [
